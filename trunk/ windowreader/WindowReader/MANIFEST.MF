@@ -1,0 +1,1082 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: WindowReaderMain
+Specification-Title: Java Advanced Imaging Image I/O Tools
+Specification-Version: 1.0-mr
+Specification-Vendor: Sun Microsystems, Inc.
+Implementation-Title: com.sun.media.imageio
+Implementation-Version: 1.0_01
+Implementation-Vendor: Sun Microsystems, Inc.
+Extension-Name: com.sun.media.imageio
+
+Name: com/sun/jna/examples/WindowUtils$NativeWindowUtils.class
+SHA1-Digest: agXi34qfqNIfUIMiqOGNshFS2bQ=
+
+Name: com/sun/jna/examples/win32/W32API$LONG_PTR.class
+SHA1-Digest: TZvLSjqkyh9iXaPqT/Nmc9svcB0=
+
+Name: com/sun/jna/CallbackReference$NativeFunctionHandler$1.class
+SHA1-Digest: +tYG0wGLdPd+lutwHCN3jC5q2i8=
+
+Name: com/sun/jna/examples/unix/X11$XCreateWindowEvent.class
+SHA1-Digest: urJUK1Q4ZXDqeLCYKMoGxFXS9vg=
+
+Name: com/sun/jna/examples/win32/W32API.class
+SHA1-Digest: rQ8lKf2r9ppD4J/b0xSLyk7ghis=
+
+Name: com/sun/jna/examples/ShapedWindowDemo$ClockFace$1.class
+SHA1-Digest: USTsNudrCcMtIokFhh5IL7YFGMQ=
+
+Name: com/keyhook/ShutdownHook.class
+SHA1-Digest: E3/N27lOqVd6gyU01ZpvU4pMrMc=
+
+Name: com/sun/jna/examples/unix/X11$XCirculateRequestEvent.class
+SHA1-Digest: M+WMvryveRQjJD5jIUPWx72gNAw=
+
+Name: com/sun/jna/InvocationMapper.class
+SHA1-Digest: 8fhEURJM5BiXLKELug289u9CDgI=
+
+Name: com/sun/jna/examples/win32/W32API$UINT_PTR.class
+SHA1-Digest: QzSV2LJ886PCA7VSQ+fIDJqqPzs=
+
+Name: com/sun/jna/examples/win32/User32$WNDENUMPROC.class
+SHA1-Digest: VB01YKTVRIusFV8/NZJM6wbRQZs=
+
+Name: com/sun/jna/Callback.class
+SHA1-Digest: E5caGTxmy0eVtN/b/j5qBLpy/GU=
+
+Name: com/sun/jna/examples/WindowUtils$NativeWindowUtils$3.class
+SHA1-Digest: KRSPgyvogj2SYdaaezQj8hmwtlE=
+
+Name: com/sun/jna/CallbackReference$DefaultCallbackProxy.class
+SHA1-Digest: JhzOj6m+aqf/dQcukjIrrLluhJw=
+
+Name: com/sun/jna/examples/unix/X11$XGravityEvent.class
+SHA1-Digest: 202Zxcj1VuZt9Q7KhQ3B28KVPig=
+
+Name: com/sun/jna/ptr/ByteByReference.class
+SHA1-Digest: kVHI8GL8FiqwwuHv+vWN14+tDHE=
+
+Name: com/sun/jna/examples/unix/X11$XSetWindowAttributes.class
+SHA1-Digest: eil6amG2b/6l+zOp1vt623fTEDY=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$4.class
+SHA1-Digest: NGNdknOyvhZxrtn76T7A+iOZGRA=
+
+Name: com/sun/jna/WString.class
+SHA1-Digest: ggH/cJ0NjgG9aTo7+Sy5+66LG2g=
+
+Name: com/sun/jna/examples/unix/X11$XExposeEvent.class
+SHA1-Digest: 5Jw/rQCDW05svJf+xmm9FLZ4aNQ=
+
+Name: com/sun/jna/examples/unix/X11$Screen.class
+SHA1-Digest: H2aKOWhtd1OQAOE/0Z57FQvYHAk=
+
+Name: com/sun/jna/examples/KeyboardUtils$X11KeyboardUtils.class
+SHA1-Digest: 5Acg9NiZtSU6CzaGXzN/kFWOpeU=
+
+Name: com/sun/jna/examples/unix/X11$AtomByReference.class
+SHA1-Digest: 3lvX2rsoC3pBlVLGwcZPORRU+XU=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils.class
+SHA1-Digest: k7AMYfHqY/AGuW59aizXy8lXOdg=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImageDemo.class
+SHA1-Digest: xHHZJBfXAZ9DQbM1kR9J3yiWQOI=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$5.class
+SHA1-Digest: jvul12jyKBPCGqt0lNydWmbH5tU=
+
+Name: com/sun/jna/examples/FileMonitor$FileListener.class
+SHA1-Digest: 8CoAxwTxZKWCeM2Bxmt+PB5rlfI=
+
+Name: com/sun/jna/DefaultTypeMapper.class
+SHA1-Digest: DqvGkxUiuEahq2aJScmQiU2+LWE=
+
+Name: com/sun/jna/Memory.class
+SHA1-Digest: UFy+YRdlDFJh96K0/RabvDrlTZM=
+
+Name: com/sun/jna/examples/WindowUtils$RepaintTrigger$Listener.class
+SHA1-Digest: eLil9zBfS2iFnkOzFCfbcAB4TPU=
+
+Name: com/sun/jna/NativeLibrary.class
+SHA1-Digest: 8M+iF03tb4jXfeM8NFwVtmqD9t0=
+
+Name: com/sun/jna/examples/unix/X11$WindowByReference.class
+SHA1-Digest: hfnkQKKaY2G/54GeyEDen09JC9g=
+
+Name: com/sun/jna/win32-x86/jnidispatch.dll
+SHA1-Digest: Vk8EDZ1NCSUWaz7T+UKv5rCQkxI=
+
+Name: com/sun/jna/Library$1.class
+SHA1-Digest: 36/gVuSqETy0fIgzotXYjon+m7k=
+
+Name: com/sun/jna/examples/WindowUtils$MacWindowUtils.class
+SHA1-Digest: Q+ffNCpQA7r0RNknN2CIM66QIoE=
+
+Name: com/sun/jna/examples/win32/W32API$HANDLE.class
+SHA1-Digest: 21be2ujOzsyd9um0SmvSI02PVb4=
+
+Name: com/sun/jna/examples/unix/X11$XEvent.class
+SHA1-Digest: uUnrOiI8LZzd08CuSXHi68qXU+s=
+
+Name: com/sun/jna/examples/FileUtils$Holder.class
+SHA1-Digest: Aul7cMjs7ExFtdP/4zbjKfWFu2A=
+
+Name: com/sun/jna/ptr/FloatByReference.class
+SHA1-Digest: 59COPG0l4g4AX3bPOYKn62LoE2w=
+
+Name: com/sun/jna/Native$2.class
+SHA1-Digest: +AqSTHCvI8kDDZzykfiB3uwF8ag=
+
+Name: com/sun/jna/examples/win32/W32API$SIZE_T.class
+SHA1-Digest: t9rrMn81H+7GWNrPY7swnCB52UM=
+
+Name: com/sun/jna/examples/BalloonManager$DropShadow$1.class
+SHA1-Digest: 25erUScxC8rbGsIzK61Mg/woVVc=
+
+Name: com/sun/jna/examples/win32/User32$BLENDFUNCTION.class
+SHA1-Digest: L0l2Ab9SQ5nBFE+pFxOJYffgQ88=
+
+Name: com/sun/jna/Pointer$Opaque.class
+SHA1-Digest: xCppCu3OgXmqofeGigiW7XRsgTw=
+
+Name: com/sun/jna/examples/win32/Kernel32$FILE_NOTIFY_INFORMATION.clas
+ s
+SHA1-Digest: Wxma3tB/50NbemFrodleI27gEXs=
+
+Name: com/sun/jna/ptr/PointerByReference.class
+SHA1-Digest: jXTIqJNDJ9bVObhLV7B3NfVEo3M=
+
+Name: com/sun/jna/MethodResultContext.class
+SHA1-Digest: 9M/WfgImvpKxhk9ksfKNz/OENvs=
+
+Name: com/sun/jna/examples/unix/X11$Xrender.class
+SHA1-Digest: 0vph4L5VyWeNSg4KBnIF+zu4esM=
+
+Name: com/sun/jna/examples/BalloonManager$BubbleWindow$1.class
+SHA1-Digest: rIfg4qk9CbvbFeSbaJaO1roIEgY=
+
+Name: com/sun/jna/examples/FileUtils$MacFileUtils.class
+SHA1-Digest: TDgYh8gLbkAp7Q4LwjE73CxEFas=
+
+Name: com/sun/jna/examples/win32/Shell32$SHFILEOPSTRUCT.class
+SHA1-Digest: 0lB1EGR9i/63nc/SQdYohrdPOqo=
+
+Name: com/sun/jna/linux-i386/libjnidispatch.so
+SHA1-Digest: bzJYHtEl1fLluNQPqBHy8L3GrDo=
+
+Name: com/sun/jna/examples/unix/X11$XMappingEvent.class
+SHA1-Digest: OPNeBmTr/PENkmO3NDNii04YNLY=
+
+Name: com/sun/jna/examples/unix/X11$XSelectionClearEvent.class
+SHA1-Digest: cRydEf2Erm+dmAReeHpf+qAzHMQ=
+
+Name: com/sun/jna/examples/ShapedWindowDemo$1.class
+SHA1-Digest: 6LnDgS4d0kPu8gkzM2dnSR71YhU=
+
+Name: com/sun/jna/examples/unix/X11$XMotionEvent.class
+SHA1-Digest: BhtjCN6I5xD1TaA2yBsRuS2I1Hg=
+
+Name: com/sun/jna/examples/win32/Kernel32$SECURITY_ATTRIBUTES.class
+SHA1-Digest: HdSdFDeWlKFZWT5kVuXnFjoPLyY=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils$1.class
+SHA1-Digest: D0uPKhJguAAUPgfm90u3geLZUWs=
+
+Name: com/sun/jna/examples/dnd/DropTargetPainter.class
+SHA1-Digest: 9nhA3I/zTEy/MkrUkeWbdgBs3z4=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$3.class
+SHA1-Digest: 1/JhIPd5E5QMz69O+6kuKLeEIVE=
+
+Name: com/sun/jna/Platform.class
+SHA1-Digest: DGlqT/6jEz+a7+ck6rSNyEFkOnM=
+
+Name: com/sun/jna/examples/unix/X11$Xevie.class
+SHA1-Digest: ohX4CDIcQf7HA03x6RIZML4+TLk=
+
+Name: com/sun/jna/Function.class
+SHA1-Digest: jghpiRI0ogUOXwdHrC8uXf0x5ds=
+
+Name: com/sun/jna/Structure$ByValue.class
+SHA1-Digest: OcA8/+SsQuSMihEJEHIq/fHteII=
+
+Name: com/sun/jna/examples/WindowUtils$RepaintTrigger.class
+SHA1-Digest: IzAUO2M2Xizub2oPbyik/WFinkg=
+
+Name: com/sun/jna/sunos-amd64/libjnidispatch.so
+SHA1-Digest: N5N1i97f6jAAIpXusemVsSziW98=
+
+Name: com/sun/jna/examples/win32/Shell32.class
+SHA1-Digest: zStiJafgJnqvC9UUC3MDcuH8B1M=
+
+Name: com/sun/jna/examples/unix/X11$XPointerMovedEvent.class
+SHA1-Digest: FjroQbEJAQT1RAayf5OtZs5OPLY=
+
+Name: com/sun/jna/StructureReadContext.class
+SHA1-Digest: /zoM7J9rkqyEJ9Rs8DbRe1Cscyo=
+
+Name: com/sun/jna/examples/unix/X11$XSizeHints.class
+SHA1-Digest: dUwYE3S+/QNsxEi1w7lXvsyhOf8=
+
+Name: com/sun/jna/examples/win32/W32API$LRESULT.class
+SHA1-Digest: 8NSNNFj46ecEoTGi25Rij1du4gA=
+
+Name: com/sun/jna/examples/win32/W32API$ULONG_PTR.class
+SHA1-Digest: t9+Z2bs//DGONreWv3UPvJbh37Y=
+
+Name: com/sun/jna/examples/BalloonManagerDemo$1$1.class
+SHA1-Digest: A5VEIK3RWLaVG/9Tdfu8c5KQCqQ=
+
+Name: com/sun/jna/sunos-x86/libjnidispatch.so
+SHA1-Digest: qTnkN76iZ/k/o6i7AZ4rJexvvQk=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$4.class
+SHA1-Digest: VwJMfx8LXtBtOdpziHQX99YzGOc=
+
+Name: com/sun/jna/examples/win32/User32.class
+SHA1-Digest: zoVmcnCMKiWb/ewKI4djElFUDM4=
+
+Name: com/sun/jna/examples/unix/X11$XFocusInEvent.class
+SHA1-Digest: tFT+aGkpVTPU7zZnpl9vlOLGtJw=
+
+Name: com/sun/jna/NativeLong.class
+SHA1-Digest: a0W/qZqQL6EAFAtUax79ZaNO37I=
+
+Name: com/sun/jna/examples/FileMonitor.class
+SHA1-Digest: xV96giAovw4yyns11aRViTM7wL8=
+
+Name: com/sun/jna/examples/win32/User32$1.class
+SHA1-Digest: xXGcmJIcDLItyHQv/Y9I1E2dx8E=
+
+Name: com/sun/jna/examples/win32/W32API$HBITMAP.class
+SHA1-Digest: ONgS5870eZpSuTkPN8kGqbam8oE=
+
+Name: com/sun/jna/examples/win32/W32API$HRGN.class
+SHA1-Digest: zqdjX2c4tl/FlLSEBj18wTdes+c=
+
+Name: com/sun/jna/examples/WindowUtils$Holder.class
+SHA1-Digest: kmJu0VMvRufkh3rEQ2kleHORhjM=
+
+Name: com/sun/jna/TypeMapper.class
+SHA1-Digest: MGy0l4yTGIqtSJVNoylKCVSZqIo=
+
+Name: com/sun/jna/examples/FileUtils.class
+SHA1-Digest: Tbz7pcmCpAfwJ8Hq8ufirOhr78w=
+
+Name: com/sun/jna/examples/unix/X11$XErrorEvent.class
+SHA1-Digest: xnnWerAlkT1UtMkquM0uModOm3w=
+
+Name: com/sun/jna/examples/unix/X11$XFocusChangeEvent.class
+SHA1-Digest: J7xgFCOI+I7cjZIvEFmOpdtzCng=
+
+Name: com/sun/jna/examples/BalloonManagerDemo$1.class
+SHA1-Digest: C/xWoFNlrmOF7UXtxSdHlfhHC9M=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils$W32TransparentCo
+ ntent.class
+SHA1-Digest: B6DkPldNTu6uXZT+M7E3fF+Cuzc=
+
+Name: com/sun/jna/FunctionMapper.class
+SHA1-Digest: RjgQXV3ufEmdz7XScQd1B5sjAd0=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils$3.class
+SHA1-Digest: oPJ5PFvov7Z9HWDNjQv6eN2AzvE=
+
+Name: com/sun/jna/examples/unix/X11$XWindowAttributes.class
+SHA1-Digest: CzHDGkE+P/gZU/xPUpUHG5q/N+c=
+
+Name: com/sun/jna/examples/unix/X11$XVisibilityEvent.class
+SHA1-Digest: 4t/K8DXRJhPC5Z0i4g7K2bsWNeo=
+
+Name: com/sun/jna/win32-amd64/jnidispatch.dll
+SHA1-Digest: t92e8JQiEUjbnMasm/oMVIdlRpE=
+
+Name: com/sun/jna/examples/KeyboardUtils$MacKeyboardUtils.class
+SHA1-Digest: 2OygPCu/KJm0gwVCtaufEi7ymqc=
+
+Name: com/sun/jna/examples/unix/X11$XKeymapEvent.class
+SHA1-Digest: YmUF6mZhMVMJz8tuSgo+LKK6+4A=
+
+Name: com/sun/jna/examples/unix/X11$XMapEvent.class
+SHA1-Digest: +a+eY4l7ynOBQgrfJq6Mywu3wrM=
+
+Name: com/sun/jna/examples/unix/X11$XSelectionRequestEvent.class
+SHA1-Digest: gniG7qb/BRyHlKBWhlk046NWJPI=
+
+Name: com/sun/jna/examples/WindowUtils.class
+SHA1-Digest: uBWvEKHgZvGJnoyAEzYX3rL0FwY=
+
+Name: com/sun/jna/examples/unix/X11$Atom.class
+SHA1-Digest: 1vS/xpmFXySHsg5jEDjlFegVylQ=
+
+Name: com/sun/jna/examples/X11AlphaMaskTest$2.class
+SHA1-Digest: 2QBlbU0CDuzVsOd7zNIWAEGCA/E=
+
+Name: com/sun/jna/CallbackProxy.class
+SHA1-Digest: AhzkKsqQMG9Q99GdWu0k82yzrsU=
+
+Name: com/sun/jna/examples/unix/X11$XPropertyEvent.class
+SHA1-Digest: ehYXUFN9x+lgy42YjB+vnoJX8Do=
+
+Name: com/sun/jna/examples/unix/X11$XNoExposeEvent.class
+SHA1-Digest: 1g8XFR/XMf5Z0VRkD7xuYeXZ53U=
+
+Name: com/sun/jna/examples/win32/GDI32$RGNDATA.class
+SHA1-Digest: zI0/gLlANqwMXs1ab1r/i3Ah7Tc=
+
+Name: com/sun/jna/examples/win32/User32$POINT.class
+SHA1-Digest: 7sbMz43oK1whUaPOf1Unskn8cdQ=
+
+Name: com/sun/jna/examples/win32/W32API$HICON.class
+SHA1-Digest: diugBtvZRvBjMPdhHVJVvi5fauw=
+
+Name: com/sun/jna/linux-amd64/libjnidispatch.so
+SHA1-Digest: /Gw38re+G3+klFscPB2Q1s4Qmt4=
+
+Name: com/sun/jna/examples/unix/X11$XClientMessageEvent.class
+SHA1-Digest: uHWY6OI+QbgeWM8jIDl/EvhcObI=
+
+Name: com/sun/jna/win32/StdCallFunctionMapper.class
+SHA1-Digest: i/a5+2qJc9zrvzu5du4csPpw1eY=
+
+Name: com/sun/jna/examples/CLibrary$1.class
+SHA1-Digest: +sUkkc9n9fPQkRKsGXZo7F8owx4=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$1.class
+SHA1-Digest: EQwwItDX18skPdwsLXizZwFnS48=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils$2.class
+SHA1-Digest: 4JAdaXjQLPMfG4fcyyNCybP+ASw=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImageDemo$DragLabel$2.class
+SHA1-Digest: nyJZ9+S2LI6fjlr5RQyF77oNekI=
+
+Name: com/sun/jna/examples/ShapedWindowDemo$1$1.class
+SHA1-Digest: dRM/hxCFCl1RDtp2tEOSJP0rLY0=
+
+Name: com/sun/jna/examples/win32/Kernel32.class
+SHA1-Digest: gg057wZaVws9K3ZdRA5vsrb6uwk=
+
+Name: com/sun/jna/sunos-sparcv9/libjnidispatch.so
+SHA1-Digest: dOwhnXFVNNl+sSxjGbShTa7+fzw=
+
+Name: com/keyhook/KeyHook$1.class
+SHA1-Digest: 8VWI01JMaMHQT9ZRk8Mtsh0ea7Q=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$2.class
+SHA1-Digest: o6Vp14DwYwA7P3/ZehOV5uXHWv0=
+
+Name: com/sun/jna/examples/FileMonitor$FileEvent.class
+SHA1-Digest: /3XflmCpo4rnAW9lF5xVW/Jlhy4=
+
+Name: Main.class
+SHA1-Digest: lTHwFcSuttdTfI7triq8BNjVNGM=
+
+Name: com/sun/jna/examples/unix/X11$XConfigureEvent.class
+SHA1-Digest: CYghYw5Vc54xtFz+zsGeHaRZEn0=
+
+Name: com/sun/jna/examples/unix/X11$Pixmap.class
+SHA1-Digest: b3NnkyhyqFjdOgX5Q9bjfJ0ozVc=
+
+Name: com/sun/jna/examples/WindowUtils$NativeWindowUtils$2.class
+SHA1-Digest: G1s/Y8dGYkmBjOmwEEG6DPLD+qc=
+
+Name: com/sun/jna/examples/win32/Kernel32$SYSTEMTIME.class
+SHA1-Digest: L6/aXiCNbpq5fEVemGJNWIs+z7Q=
+
+Name: com/sun/jna/Structure$MemberOrder.class
+SHA1-Digest: 5CsrEV1B4OhxmZ+h3KPY5K5jhBI=
+
+Name: com/sun/jna/examples/KeyboardUtils$1.class
+SHA1-Digest: hQ4Wz+e2y1ScL4Vi1wMUEPvPtrs=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$X11TransparentCo
+ ntent.class
+SHA1-Digest: Y3E4tsZmfVzKcgpVjA8fUZVv/AA=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImageDemo$ImageSelection.cla
+ ss
+SHA1-Digest: bVHr4plBhpcynSHhiA4G9Yvf0kM=
+
+Name: com/sun/jna/examples/unix/X11$XButtonPressedEvent.class
+SHA1-Digest: BwlSMv8v41qv/maD7+/nkXUmKl0=
+
+Name: com/sun/jna/FunctionResultContext.class
+SHA1-Digest: Ut6ThfWav8Wn4YdI4IfI8voTsNs=
+
+Name: com/sun/jna/examples/win32/W32API$LPARAM.class
+SHA1-Digest: 89Y6UQrdks+n0NGt91ErBfO/n3I=
+
+Name: com/sun/jna/examples/BalloonManagerDemo.class
+SHA1-Digest: +vlm6FJuQdLrTT390hroaLbrfZY=
+
+Name: com/sun/jna/Union.class
+SHA1-Digest: t97PEWR+AD3yMH9r6H44IvB6OQs=
+
+Name: com/sun/jna/examples/unix/X11$XButtonReleasedEvent.class
+SHA1-Digest: TG6qmBHSXN2F65bQiGrriiWZgDo=
+
+Name: com/sun/jna/examples/win32/W32API$WPARAM.class
+SHA1-Digest: kmwsNzmsCDpJfZshR/Sd3WqQEI0=
+
+Name: com/sun/jna/examples/RasterRangesUtils.class
+SHA1-Digest: A+aIIxOLenDT9unP+kN/Vy75ipk=
+
+Name: com/sun/jna/examples/win32/User32$MSG.class
+SHA1-Digest: 7atCbjeLWw2rBRR58gIrpLdLc7I=
+
+Name: com/sun/jna/Native$1.class
+SHA1-Digest: vI3IikLhWqUlleG4PJGmbKvLfyI=
+
+Name: com/sun/jna/MethodParameterContext.class
+SHA1-Digest: xzkMKzVq7WCrwmvxburcDIM7i18=
+
+Name: com/sun/jna/Structure$FFIType$FFITypes.class
+SHA1-Digest: 65hJ+2asnyx70UozFn7FUkllc1E=
+
+Name: com/sun/jna/examples/FileMonitor$W32FileMonitor$1.class
+SHA1-Digest: naufCRn2ILuZ2AlWKefH8soeZy4=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$2.class
+SHA1-Digest: dvLqsXUf9+1c/sCJhZ/CxFDwpAM=
+
+Name: com/sun/jna/examples/BalloonManager$DropShadow$2.class
+SHA1-Digest: 4rv9bOkaILS+FFtk+8u2fYvMIUg=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImage$1.class
+SHA1-Digest: 9QMHC3Mug0RrrWPWetYAbHPkjKw=
+
+Name: com/sun/jna/examples/unix/X11$XDestroyWindowEvent.class
+SHA1-Digest: 29Q/mQTosWyv3SED2CL5yUV62k4=
+
+Name: com/sun/jna/examples/unix/X11$Drawable.class
+SHA1-Digest: jJNRQefFjv/+/CUAk+83+5ubI1A=
+
+Name: com/sun/jna/examples/unix/X11$XReparentEvent.class
+SHA1-Digest: YdxY7WU1wxCFVK672gKebwVcw8U=
+
+Name: com/sun/jna/Pointer$1.class
+SHA1-Digest: EhRqIWx16KTxqVRewoa9ZE47q60=
+
+Name: com/sun/jna/examples/dnd/toucan.png
+SHA1-Digest: aVEPLWh917N1eLd7Wt3pHgT/MMI=
+
+Name: com/sun/jna/examples/win32/W32API$4.class
+SHA1-Digest: KPVskiADe/1G9TQEOuZq/xEW9Ng=
+
+Name: com/sun/jna/examples/ShapedWindowDemo$1$2.class
+SHA1-Digest: dI+g/fkwWRFMkip1NS0MMVbibUA=
+
+Name: com/keyhook/KeyHookData.java
+SHA1-Digest: BQJr0GPsRjr0i4SFW384o1lEPjk=
+
+Name: com/sun/jna/examples/win32/W32Errors.class
+SHA1-Digest: NnVan36BagKYWUsRju+ecouhgT0=
+
+Name: com/sun/jna/examples/unix/X11$Xrender$XRenderDirectFormat.class
+SHA1-Digest: 8CIs7Q2ZdfgDkwR4MNSwRB5wjJ0=
+
+Name: com/sun/jna/examples/win32/User32$HHOOK.class
+SHA1-Digest: oLNOnzB92NeeXRrhkh+3rDEi6xQ=
+
+Name: com/sun/jna/Structure$FFIType$size_t.class
+SHA1-Digest: uEC3gom0YXCAjmvQ0FMcC/U/7NY=
+
+Name: com/sun/jna/freebsd-amd64/libjnidispatch.so
+SHA1-Digest: 4XYWtlcdp6ccE/b86SSdhU9MYio=
+
+Name: com/sun/jna/examples/win32/User32$HOOKPROC.class
+SHA1-Digest: PwjfM224C6Pm61JZuTqG/Oh0yzc=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$3.class
+SHA1-Digest: nothzYciNN/SakOZn2BlkC3uOaw=
+
+Name: com/sun/jna/StructureWriteContext.class
+SHA1-Digest: WfjCuIO0CvO0t573NIWQ+9mk2vA=
+
+Name: com/sun/jna/examples/unix/X11$XPoint.class
+SHA1-Digest: LdzGsu4x6/mp/6YolaGVl06bgVM=
+
+Name: com/sun/jna/StringArray.class
+SHA1-Digest: dyBlT3dj71drTW+AV5zkGaXbG68=
+
+Name: com/sun/jna/ptr/LongByReference.class
+SHA1-Digest: qDrCqZvEA/olF7tCQWSbJ8oWDbI=
+
+Name: com/sun/jna/examples/WindowUtils$1.class
+SHA1-Digest: 7Gilnz3eIp+84TyMup29bFem7lw=
+
+Name: com/sun/jna/examples/unix/X11$XGCValues.class
+SHA1-Digest: ZWUCCm47maXjmqx0cZUQB4vt/pE=
+
+Name: com/sun/jna/examples/BalloonManager$DropShadow.class
+SHA1-Digest: xMHo9fjX/BOLLR++sdUlbE5yucg=
+
+Name: com/sun/jna/FromNativeContext.class
+SHA1-Digest: zqeThVrpsN+eMYthLEgCg8wKS9U=
+
+Name: com/sun/jna/examples/win32/User32$GUITHREADINFO.class
+SHA1-Digest: Lb20yiXZFQ2roc77urEaWz2dZ+0=
+
+Name: com/sun/jna/examples/unix/X11$Visual.class
+SHA1-Digest: KNCX0dOoJpB6H72g2AbH3c5i3L4=
+
+Name: com/sun/jna/examples/win32/W32API$2.class
+SHA1-Digest: tsta7ryXZAgla2TzCR/irueJK3o=
+
+Name: com/sun/jna/win32/W32APITypeMapper$1.class
+SHA1-Digest: A8OaQLI3o+xaG/tV1l6xM8VAVIo=
+
+Name: com/sun/jna/examples/win32/Kernel32$OVERLAPPED.class
+SHA1-Digest: pcxwRSNw+LEgaMpM4IGQG74M8Ac=
+
+Name: com/sun/jna/examples/RasterRangesUtils$1.class
+SHA1-Digest: c4sUrDw9wl1sN2mwdimgNqZ6G9M=
+
+Name: com/sun/jna/examples/unix/X11$Xext.class
+SHA1-Digest: TdnOH3D5/gtdaXgzYgMpkRLYCfE=
+
+Name: com/sun/jna/examples/X11AlphaMaskTest$3.class
+SHA1-Digest: hg/MArnRq3T3Ug6PdMv7QVBzFD4=
+
+Name: com/sun/jna/examples/BalloonManager$BubbleWindow.class
+SHA1-Digest: FdefiAj01TIHwkGyLHotr9F7YRk=
+
+Name: com/sun/jna/examples/BalloonManager.class
+SHA1-Digest: El5Fq/Xibhy1+WSY9fCKGwfQQn8=
+
+Name: com/sun/jna/ToNativeContext.class
+SHA1-Digest: UgF3zpQ1UrnlfmsZVERbwwul1Hk=
+
+Name: com/sun/jna/examples/win32/W32API$HWND.class
+SHA1-Digest: Z2I8funLrDw7qN6vKp2HcmB2AZM=
+
+Name: com/keyhook/KeyHookEvent.class
+SHA1-Digest: JA6Am2YJyr+76ejsxT+ouCOFXxA=
+
+Name: com/sun/jna/examples/unix/X11$Colormap.class
+SHA1-Digest: h2P/LdtvTynKtVWaEs1e4ao5PHA=
+
+Name: com/keyhook/KeyHook$2.class
+SHA1-Digest: +JrEpjfo3tbz+fxeiZA+vY+EKHY=
+
+Name: com/sun/jna/PointerType.class
+SHA1-Digest: XQWaLHyC0hvxinXvmS0keuLFRko=
+
+Name: com/sun/jna/examples/WindowUtils$MacWindowUtils$OSXTransparentCo
+ ntent.class
+SHA1-Digest: cbqc6Na3u6eKmC6aBmhDZQw1ch0=
+
+Name: com/sun/jna/TypeConverter.class
+SHA1-Digest: I/YgM9qdrlstjvuTilBnE+4/1Ak=
+
+Name: com/sun/jna/examples/win32/Kernel32$1.class
+SHA1-Digest: aC/1mA/ft/wdiLDN5FHRWp11+rw=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$4.class
+SHA1-Digest: kyzD57PmuJ7czt72u3I6UnbQRJY=
+
+Name: com/sun/jna/examples/win32/W32API$DWORD.class
+SHA1-Digest: yWBjyYJD3YR2AsAUgehJCp1++i4=
+
+Name: com/sun/jna/Structure$FFIType.class
+SHA1-Digest: xE2hrf2K/2gI1gMIDJBl/uuz2bQ=
+
+Name: com/sun/jna/Function$PostCallRead.class
+SHA1-Digest: XEX6rXtTLPZL6ouk1THyvtms28k=
+
+Name: com/sun/jna/CallbackResultContext.class
+SHA1-Digest: pUugqJBLvBUuxnc/FZ2lUcn9P/4=
+
+Name: com/sun/jna/examples/unix/X11$XUnmapEvent.class
+SHA1-Digest: s2SmcK2/md7DUTb3/lcHWwah02s=
+
+Name: com/sun/jna/ptr/NativeLongByReference.class
+SHA1-Digest: 4mdsLX424O8dIH8MVwQpp/hDYjQ=
+
+Name: com/sun/jna/Library$Handler$FunctionInfo.class
+SHA1-Digest: NxgWaE3tUgqcHSW62sLr82bUiIQ=
+
+Name: com/sun/jna/examples/unix/X11$XCirculateEvent.class
+SHA1-Digest: HYimyjeoO+NJIG5vxDDDe9Oz+bY=
+
+Name: com/sun/jna/examples/WindowUtils$NativeWindowUtils$TransparentCo
+ ntent.class
+SHA1-Digest: TC76tE5KWP5SGJTDOUQ1Ns7N6WE=
+
+Name: com/sun/jna/examples/unix/X11$XResizeRequestEvent.class
+SHA1-Digest: KywMMnga5vfZ2Snkr2saEZF5eF8=
+
+Name: com/sun/jna/examples/ShapedWindowDemo.class
+SHA1-Digest: QeOoIFpo4fuyUxCLKUkbPfH63OQ=
+
+Name: com/sun/jna/examples/unix/X11$XTextProperty.class
+SHA1-Digest: J6PMg905sesvBQRG8cQ7VLiADo0=
+
+Name: com/sun/jna/examples/FileUtils$W32FileUtils.class
+SHA1-Digest: 9RyLBvpohP+xReaTJB7GLE8lXto=
+
+Name: com/sun/jna/examples/FileUtils$1.class
+SHA1-Digest: lkEhb/A3AH+W4/QbjiFdvcrjRzg=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils$4.class
+SHA1-Digest: Xc8jLN8s3e/rHeQq2uHv9KIK2Lk=
+
+Name: com/sun/jna/examples/win32/W32API$HMODULE.class
+SHA1-Digest: mfMX8MkGwTUFsOwNEAOpuwUgXIg=
+
+Name: com/keyhook/KeyHookData.class
+SHA1-Digest: cFCoJNVWHnEVmrMJMNGppg+TU8o=
+
+Name: com/sun/jna/Native.class
+SHA1-Digest: U8+KrcXJvAY1MaoIQoDrqbDU1wU=
+
+Name: com/sun/jna/openbsd-i386/libjnidispatch.so
+SHA1-Digest: 1NPwYXsLvuJoZ5RycQuqHfX4c+4=
+
+Name: com/sun/jna/ToNativeConverter.class
+SHA1-Digest: 4m1kOiXAspFU9YkOsvKK/vJe2nM=
+
+Name: com/sun/jna/examples/unix/X11$XKeyEvent.class
+SHA1-Digest: q2DKF6nZ9otqTNQqZxytwXrUytY=
+
+Name: com/sun/jna/examples/win32/GDI32$RECT.class
+SHA1-Digest: ONeTlFEvc+/HD60ocgJSfuXbKS4=
+
+Name: com/sun/jna/win32/W32APIFunctionMapper.class
+SHA1-Digest: ww/81+1R/fmKGzf4zhAtwhokBHE=
+
+Name: com/sun/jna/examples/FileUtils$DefaultFileUtils.class
+SHA1-Digest: KVnyp+COONBntoVikkL0gzQDTWU=
+
+Name: com/sun/jna/examples/win32/GDI32.class
+SHA1-Digest: 4iaTfrgNbLhBtHblnyJ42rw+hWg=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$3.class
+SHA1-Digest: GzsI0ZpPEhfN7mjHgd/kYPg2yio=
+
+Name: com/sun/jna/examples/dnd/DragHandler.class
+SHA1-Digest: Nhg5gH94PV1hEVbQdvnsx+cCG8o=
+
+Name: com/keyhook/KeyHook.class
+SHA1-Digest: kymZw0DmSP+kTA/+lXEZF5M63NA=
+
+Name: com/sun/jna/examples/unix/X11$VisualID.class
+SHA1-Digest: jfN3QK/IntWNWHjCVTDjXMea3W8=
+
+Name: com/sun/jna/ptr/ByReference.class
+SHA1-Digest: jwfdgI82CN+rJSeXX7su76sgen0=
+
+Name: com/sun/jna/examples/win32/W32API$HANDLEByReference.class
+SHA1-Digest: gX2xkMEY+wdkMksVkDLuEnws9WQ=
+
+Name: com/sun/jna/examples/ShapedWindowDemo$ClockFace.class
+SHA1-Digest: lE8nNiYFfcrzP5wm30SBoBoHMAE=
+
+Name: com/sun/jna/examples/RasterRangesUtils$RangesOutput.class
+SHA1-Digest: sXlsNBWOggGn+Y97sILNDpa1Ta8=
+
+Name: com/sun/jna/win32/W32APITypeMapper$2.class
+SHA1-Digest: 3VAmZVXPN8GQV8Forn67FrNR8hc=
+
+Name: com/sun/jna/examples/FileMonitor$W32FileMonitor$FileInfo.class
+SHA1-Digest: UsUltqCO+Se6IMmYedOCfiVO7eI=
+
+Name: com/sun/jna/examples/win32/User32$KBDLLHOOKSTRUCT.class
+SHA1-Digest: ciyJq0OPO1rNd5UurIR8PieV0RE=
+
+Name: com/sun/jna/ptr/DoubleByReference.class
+SHA1-Digest: 36X55HU8IvF3dDDRX7cAx9lRAeQ=
+
+Name: com/sun/jna/NativeMappedConverter.class
+SHA1-Digest: kBCYelFpqVAtZqgbstZjC1QDsYU=
+
+Name: com/sun/jna/Memory$SharedMemory.class
+SHA1-Digest: S2m+Ihr5L+TdOzoBPNO9qVL3Rm8=
+
+Name: com/sun/jna/NativeLibrary$1.class
+SHA1-Digest: zG+l0IZQCKHbnea/hyja8dk0w/8=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2.class
+SHA1-Digest: ICTby25rS1F2GeSfQnfld3Jr5/k=
+
+Name: com/sun/jna/examples/win32/User32$LowLevelKeyboardProc.class
+SHA1-Digest: ytgjZ04S0+PKYbjkTSZkZlRAh5c=
+
+Name: com/sun/jna/ptr/IntByReference.class
+SHA1-Digest: b+cZkrxWF+MiFrmLLNdAtHTw1/A=
+
+Name: com/sun/jna/NativeString.class
+SHA1-Digest: clUoQEFjv/Ug8Des43Lc2ifdyqI=
+
+Name: com/sun/jna/Function$PointerArray.class
+SHA1-Digest: AXwqQKA2U+lKQTK46dbC68SchV4=
+
+Name: com/sun/jna/sunos-sparc/libjnidispatch.so
+SHA1-Digest: oWwWbTE/7sKO9VqYJBBL4vCgU+4=
+
+Name: com/sun/jna/examples/tardis.png
+SHA1-Digest: 01otaIQcqTb/FcjZOHrnf1ZLCEE=
+
+Name: com/sun/jna/
+Export-Package: com.sun.jna,com.sun.jna.ptr,com.sun.jna.win32
+Bundle-ActivationPolicy: lazy
+Implementation-Title: com.sun.jna
+Implementation-Version: 3.4.1 (b671)
+Specification-Vendor: JNA Development Team
+Bundle-Name: jna
+Bundle-NativeCode: com/sun/jna/win32-x86/jnidispatch.dll; processor=x8
+ 6;osname=win32, com/sun/jna/win32-amd64/jnidispatch.dll; processor=x8
+ 6-64;osname=win32, com/sun/jna/w32ce-arm/jnidispatch.dll; processor=a
+ rm;osname=wince,  com/sun/jna/sunos-x86/libjnidispatch.so; processor=
+ x86;osname=sunos, com/sun/jna/sunos-amd64/libjnidispatch.so; processo
+ r=x86-64;osname=sunos, com/sun/jna/sunos-sparc/libjnidispatch.so; pro
+ cessor=sparc;osname=sunos, com/sun/jna/sunos-sparcv9/libjnidispatch.s
+ o; processor=sparcv9;osname=sunos,  com/sun/jna/aix-ppc/libjnidispatc
+ h.a; processor=ppc;osname=aix, com/sun/jna/aix-ppc64/libjnidispatch.a
+ ; processor=ppc64;osname=aix,  com/sun/jna/linux-ppc/libjnidispatch.s
+ o; processor=ppc;osname=linux, com/sun/jna/linux-ppc64/libjnidispatch
+ .so; processor=ppc64;osname=linux, com/sun/jna/linux-i386/libjnidispa
+ tch.so; processor=x86;osname=linux, com/sun/jna/linux-amd64/libjnidis
+ patch.so; processor=x86-64;osname=linux, com/sun/jna/linux-arm/libjni
+ dispatch.so; processor=arm;osname=linux, com/sun/jna/linux-ia64/libjn
+ idispatch.so; processor=ia64;osname=linux,  com/sun/jna/openbsd-i386/
+ libjnidispatch.so; processor=x86;osname=openbsd, com/sun/jna/freebsd-
+ i386/libjnidispatch.so; processor=x86;osname=freebsd, com/sun/jna/fre
+ ebsd-amd64/libjnidispatch.so; processor=x86-64;osname=freebsd,  com/s
+ un/jna/darwin/libjnidispatch.jnilib; osname=macos,
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Bundle-Vendor: JNA Development Team
+Implementation-Vendor: JNA Development Team
+Bundle-Version: 3
+Specification-Title: Java Native Access (JNA)
+Bundle-ManifestVersion: 2
+Bundle-Description: JNA Library
+Specification-Version: 3
+Bundle-SymbolicName: com.sun.jna
+
+Name: com/sun/jna/win32/W32APITypeMapper.class
+SHA1-Digest: kGvBwJxkGsUfQ1oESts4MTPIQJI=
+
+Name: com/sun/jna/DefaultTypeMapper$Entry.class
+SHA1-Digest: Ttz6NfQBDy5seKVrtdQtwk6uXnU=
+
+Name: com/sun/jna/examples/WindowUtils$MacWindowUtils$1.class
+SHA1-Digest: DhHA+JkvsYR5RRVPvBIV4vs3rwo=
+
+Name: com/sun/jna/examples/unix/X11$Cursor.class
+SHA1-Digest: dLjDqXYk20qX7Ks1y59Oo394HUI=
+
+Name: com/sun/jna/Structure.class
+SHA1-Digest: KgOCrARRR6c0ZltU17RcPf1wtI8=
+
+Name: com/sun/jna/examples/unix/X11$XRectangle.class
+SHA1-Digest: HePKNX+8nClrcCnSmgoGJZ18mQE=
+
+Name: com/sun/jna/examples/win32/GDI32$RGNDATAHEADER.class
+SHA1-Digest: KI77UBaJDX5yw/lb0iz/RK2WZtU=
+
+Name: com/sun/jna/FunctionParameterContext.class
+SHA1-Digest: jF6yBYudRpdzrqkqcbHoKoCxKfQ=
+
+Name: com/sun/jna/Pointer.class
+SHA1-Digest: kN81+Op3tXo6in5GkSfCqsCiCOE=
+
+Name: com/sun/jna/examples/unix/X11$Xrender$XRenderPictFormat.class
+SHA1-Digest: BjZIu7oH9WtYXgZMxJUAPgLm+io=
+
+Name: com/sun/jna/examples/FileMonitor$W32FileMonitor.class
+SHA1-Digest: gVrz3Eil/H2SHohkws8Oau6DxXE=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$1$1.class
+SHA1-Digest: COYtlYfomq2oArltHw/X3xfkeWA=
+
+Name: com/sun/jna/examples/win32/User32$WINDOWINFO.class
+SHA1-Digest: sKW4u3DPfxwAYMtvD7LdEQ65MP4=
+
+Name: com/keyhook/ShutdownHook.java
+SHA1-Digest: ZgjQQ3Q/ETiDa2NsBwoqKaiRdTI=
+
+Name: com/sun/jna/examples/X11AlphaMaskTest$1.class
+SHA1-Digest: DBmUH4iaUdbOYlIwDDewOhp/rag=
+
+Name: com/sun/jna/examples/KeyboardUtils$W32KeyboardUtils.class
+SHA1-Digest: pqor6cg4gpZ3yXRunquQPBJTNZU=
+
+Name: com/sun/jna/examples/unix/X11$XLeaveWindowEvent.class
+SHA1-Digest: ybXfDXnkcCDBlJti07bU4ww5AhU=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImageDemo$DragLabel$1.class
+SHA1-Digest: rp2eVQ0aa4FhfweKGiQ2KUmWu1M=
+
+Name: com/sun/jna/Structure$StructField.class
+SHA1-Digest: qEf08U0p0SV+mZReAaB8i6bMOlQ=
+
+Name: com/sun/jna/examples/KeyboardUtils$NativeKeyboardUtils.class
+SHA1-Digest: b5+AIdgNwNiSZfWDWUtQTocFgYg=
+
+Name: com/sun/jna/examples/FileMonitor$INotifyFileMonitor.class
+SHA1-Digest: ADNNOu9Ht+GBg7N2r2uqIteP0I0=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$5.class
+SHA1-Digest: aaGq/xDwy2dwY/1AiyjTQSULNJI=
+
+Name: com/sun/jna/examples/unix/X11$XImage.class
+SHA1-Digest: 2uhwaIDErLrPBjy6E5MdY3Ki95k=
+
+Name: com/sun/jna/examples/dnd/DropHandler.class
+SHA1-Digest: JULf/NYCXFUfavXOn3NhjewHhRI=
+
+Name: com/sun/jna/examples/unix/X11$Display.class
+SHA1-Digest: Hi54dmtVU1pNjdaEb4qvVnd1gCA=
+
+Name: com/sun/jna/win32/StdCallLibrary.class
+SHA1-Digest: uAqL5mlW50SchacUCmoFCnASq4s=
+
+Name: com/sun/jna/examples/win32/W32API$HINSTANCE.class
+SHA1-Digest: 6bH+kjzjGoF11QypAjZcxOmg+r4=
+
+Name: com/sun/jna/examples/unix/X11.class
+SHA1-Digest: CG+7xoruSEtI4h3wxrWfCdLqLIA=
+
+Name: com/sun/jna/examples/unix/X11$XCrossingEvent.class
+SHA1-Digest: ZsSRRaZqHNwD5vG+qjjwNWPKFIU=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$5.class
+SHA1-Digest: FaQWxSnzDCaImgjL/O/unaYVi6g=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImageDemo$DragLabel.class
+SHA1-Digest: Npb4DTyqbSLtWMJQgtMJkcIpW/4=
+
+Name: com/sun/jna/examples/unix/X11$XFocusOutEvent.class
+SHA1-Digest: LkTsZkpgYTOaHfu+raLNnRvlVt8=
+
+Name: com/keyhook/KeyHookListener.class
+SHA1-Digest: NeXnDiiNv1CC7B+4j55skv1d3Z0=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$2.class
+SHA1-Digest: Tz055aBQC/mlmITO0J/K5mD9UVk=
+
+Name: com/keyhook/KeyHookEvent.java
+SHA1-Digest: tNlxxQ4exGpd9l59qg/TU0rCxpg=
+
+Name: com/sun/jna/examples/WindowUtils$W32WindowUtils.class
+SHA1-Digest: 2p6v/3sjplRibuUS7Q0it0Ri0gI=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImage$2.class
+SHA1-Digest: 5SjCC7Cevlo+YLZdqSw3R1xnKjo=
+
+Name: com/sun/jna/CallbackReference$NativeFunctionProxy.class
+SHA1-Digest: eVBszpvEgMVVY5iXGvcGyeU3uVg=
+
+Name: com/sun/jna/examples/win32/W32API$SSIZE_T.class
+SHA1-Digest: xzGVtrdIC/Sdnh6hliG9f72GGP8=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImage.class
+SHA1-Digest: etYMNvJxQt9WmnxaahJp7Hc2gyY=
+
+Name: com/sun/jna/examples/AlphaMaskDemo$1.class
+SHA1-Digest: Tngky75aIS0GrlOMLYF66+diB9Y=
+
+Name: com/sun/jna/examples/win32/W32API$3.class
+SHA1-Digest: xp6VODKAyhNKWCwOMfC8lOKaDoE=
+
+Name: com/sun/jna/examples/unix/X11$XMapRequestEvent.class
+SHA1-Digest: ysd092jHR4AxpZs40cAhMDMZw+o=
+
+Name: com/sun/jna/examples/AlphaMaskDemo.class
+SHA1-Digest: 9/PS8s9dppr0GUruMprM3b+ed7s=
+
+Name: com/sun/jna/examples/unix/X11$Window.class
+SHA1-Digest: tXjZ2rQEihVS5mpsGEf7lkyQw9k=
+
+Name: com/sun/jna/examples/unix/X11$Xrender$PictFormat.class
+SHA1-Digest: MSdrk/4vl5yX/94OU0HUDE2L0HE=
+
+Name: com/sun/jna/examples/unix/X11$XAnyEvent.class
+SHA1-Digest: UkQN4Vv+sptsjmsvIPdjxZhJKF4=
+
+Name: com/sun/jna/examples/unix/X11$GC.class
+SHA1-Digest: fAzkm1gdXTpOTADuNXdSgm+x/6U=
+
+Name: com/sun/jna/examples/unix/X11$XButtonEvent.class
+SHA1-Digest: lSvbq98mH9ubRQv60ytCOik2gVI=
+
+Name: com/sun/jna/examples/FileMonitor$KQueueFileMonitor.class
+SHA1-Digest: 6Xog0COv6QhPQS8AOwXnsZ6qJiE=
+
+Name: com/sun/jna/examples/BalloonManager$1.class
+SHA1-Digest: P5jsTP33BVGi8oIZFP+HIf6gcoI=
+
+Name: com/sun/jna/FromNativeConverter.class
+SHA1-Digest: x43s/KAjyXhMh07WSVouyEDm/gI=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$1.class
+SHA1-Digest: ADU8SnSDFlZBCRAZd2CUUsRd9zQ=
+
+Name: com/sun/jna/examples/unix/X11$1.class
+SHA1-Digest: Af7NS/k0qosWv9WM909aMhTnhZo=
+
+Name: com/sun/jna/examples/WindowUtils$NativeWindowUtils$1.class
+SHA1-Digest: lLJmVoCAXttGaX/VqPlqSd5GQ9s=
+
+Name: com/sun/jna/Library$Handler.class
+SHA1-Digest: KLW57kHzwlJRVdHffXYxl6BqUgY=
+
+Name: com/sun/jna/freebsd-i386/libjnidispatch.so
+SHA1-Digest: 6BfftfjOMK/RUOwHSqNazyTiMjk=
+
+Name: com/sun/jna/examples/KeyboardUtils.class
+SHA1-Digest: OO2G/NZqn1ERuHL6g4ST9ttsQQI=
+
+Name: com/sun/jna/examples/FileMonitor$1.class
+SHA1-Digest: Qb32ldxUYWLCBNrsPUpDpPkJfsA=
+
+Name: com/sun/jna/examples/unix/X11$XClientMessageEvent$Data.class
+SHA1-Digest: Bq5VPLDtPNm0DbJh7GSWPzt03G0=
+
+Name: com/sun/jna/examples/unix/X11$XGraphicsExposeEvent.class
+SHA1-Digest: vq1jP66NoqjQ7o5PBsSGhqzjjS8=
+
+Name: com/sun/jna/examples/unix/X11$XID.class
+SHA1-Digest: EyABSASXTm5HfrPf7Oebupiq47w=
+
+Name: com/sun/jna/win32/StdCall.class
+SHA1-Digest: BDttPeSwCPargHZUKN+v0ijwqi4=
+
+Name: com/sun/jna/examples/win32/W32API$1.class
+SHA1-Digest: c6q4HrPaNYnEW9ywGyX7ij5wiLg=
+
+Name: com/sun/jna/examples/unix/X11$XWMHints.class
+SHA1-Digest: InhyhagZ/AQxGgJDglfAUe0uLcU=
+
+Name: com/sun/jna/NativeLibrary$2.class
+SHA1-Digest: uvOwr7dEs4XW4SNpv+eE8lEBwII=
+
+Name: com/sun/jna/examples/AlphaMaskDemo2$1$1.class
+SHA1-Digest: xLLNXybEtgXOGp+Q2ZjwQ3dXG2o=
+
+Name: com/keyhook/KeyHook.java
+SHA1-Digest: WMCy89eKpiTSHgBHvxQ58uWf4O4=
+
+Name: com/sun/jna/examples/win32/User32$FLASHWINFO.class
+SHA1-Digest: RKo5OYP36OyjWb5JZi9NjkP++rE=
+
+Name: com/sun/jna/IntegerType.class
+SHA1-Digest: aP3/F40/oWzj9hZr/yAGWIhYq9E=
+
+Name: com/sun/jna/examples/win32/W32API$HDC.class
+SHA1-Digest: /IqNflkMlk+VUi5c/GguL/MRy5k=
+
+Name: com/sun/jna/examples/win32/GDI32$RGBQUAD.class
+SHA1-Digest: 2WmjQSz3HosvATdzkBo+dBziC0Q=
+
+Name: com/sun/jna/examples/win32/Shell32$1.class
+SHA1-Digest: b/ecyay/b2PfK2hnCbkm6/lx478=
+
+Name: com/sun/jna/examples/WindowUtils$HeavyweightForcer.class
+SHA1-Digest: hu/ODq2u8hzKUpbuAq6jQao3Xeo=
+
+Name: com/sun/jna/examples/CLibrary.class
+SHA1-Digest: JnM0hCGs04CcuIh51efgsbzdasM=
+
+Name: com/sun/jna/examples/unix/X11$XColormapEvent.class
+SHA1-Digest: 4IQiKAzp+xT/U2TV0bIZa/zptKc=
+
+Name: com/sun/jna/ptr/ShortByReference.class
+SHA1-Digest: f4OB1VU1MmV4SMl6VZrHEhHt5LE=
+
+Name: com/sun/jna/examples/unix/X11$XEnterWindowEvent.class
+SHA1-Digest: +ZEVcTk1anZM538+Cfxfq/g/+jc=
+
+Name: Main.java
+SHA1-Digest: /SZ7FJjafORNVZx1MDV+slCrByg=
+
+Name: com/sun/jna/examples/win32/GDI32$BITMAPINFO.class
+SHA1-Digest: 1P4f4tFJ2ewh12KvIKCApgXOtbE=
+
+Name: com/sun/jna/CallbackReference.class
+SHA1-Digest: A/FMo0Z7gv05iCIKACbpM7M2QIg=
+
+Name: com/sun/jna/examples/BalloonManagerDemo$InfoIcon.class
+SHA1-Digest: hLpbfrAX/xZRvPPCaBYeFfA9hm4=
+
+Name: com/sun/jna/darwin/libjnidispatch.jnilib
+SHA1-Digest: YDVPjCf6MJMpVZ/tRy+awesd8P8=
+
+Name: com/sun/jna/examples/unix/X11$Font.class
+SHA1-Digest: iyEUoPdTq9miOMIoqx36y8oW3gI=
+
+Name: com/sun/jna/win32/StdCallLibrary$StdCallCallback.class
+SHA1-Digest: 10o216jW7UmWNCZhQzjqx4I0Leo=
+
+Name: com/sun/jna/Structure$ByReference.class
+SHA1-Digest: FSp1KMRN10XKCIXx50E6TOklLOU=
+
+Name: com/sun/jna/examples/dnd/GhostedDragImage$3.class
+SHA1-Digest: LmwXnYhsQ1R2EB1w5/D8+F6fUtE=
+
+Name: com/sun/jna/Native$DeleteNativeLibrary.class
+SHA1-Digest: l0as8uw4cchRCVagQ7FCiXyoFEY=
+
+Name: com/sun/jna/examples/unix/X11$XConfigureRequestEvent.class
+SHA1-Digest: lYuPe6lYItZ5gz2G2qKKjgmUwUQ=
+
+Name: com/sun/jna/examples/WindowUtils$X11WindowUtils$PixmapSource.cla
+ ss
+SHA1-Digest: 5Y5cKrVhjlsOYBaN6LJ6W5//XfA=
+
+Name: com/sun/jna/examples/win32/GDI32$1.class
+SHA1-Digest: bE8lARUl3YWoQGVZcJk50AssWEI=
+
+Name: com/sun/jna/examples/unix/X11$XSizeHints$Aspect.class
+SHA1-Digest: LI3WZRc5IfCRFmpK2RSFuBfaI7o=
+
+Name: com/sun/jna/examples/win32/W32API$WORD.class
+SHA1-Digest: 3IXxk//+MudF3axcQBScDSKx5U0=
+
+Name: com/sun/jna/NativeMapped.class
+SHA1-Digest: yCViN2svT817xpaUBzL39EG3x10=
+
+Name: com/sun/jna/examples/X11AlphaMaskTest.class
+SHA1-Digest: 1S5bF3v1EVShl+rrzKJD6AiWXYw=
+
+Name: com/sun/jna/examples/unix/X11$XSelectionEvent.class
+SHA1-Digest: GoU2Ng6wmaGYOBXDxlglJdUuDJk=
+
+Name: com/sun/jna/CallbackReference$NativeFunctionHandler.class
+SHA1-Digest: NIr0vExlyiezA2WZZp46bPMDqkc=
+
+Name: com/sun/jna/examples/unix/X11$XVisualInfo.class
+SHA1-Digest: Jjf1/HH0yG1OmQzFjs8fg32rlTA=
+
+Name: com/sun/jna/examples/win32/Kernel32$OVERLAPPED_COMPLETION_ROUTIN
+ E.class
+SHA1-Digest: qz+EKP0Kd6MpdTMJi8vxEAXoaKs=
+
+Name: com/sun/jna/Library$Handler$FunctionNameMap.class
+SHA1-Digest: fgQ0NJCInOK888wFwhgGUwPv1d8=
+
+Name: com/sun/jna/examples/win32/GDI32$BITMAPINFOHEADER.class
+SHA1-Digest: wA9YZqsLgHf5kNPZ7JTGkpr+6ok=
+
+Name: com/sun/jna/Library.class
+SHA1-Digest: qe6LqG7VGRh9XH+My1HMfsHi5BI=
+
+Name: com/keyhook/KeyHookListener.java
+SHA1-Digest: R4eqY7BLxTqapyxZWRJ+Pd0DR28=
+
+Name: com/sun/jna/CallbackParameterContext.class
+SHA1-Digest: z4GmCQMtrjBewcjEYWC1J9vh5wE=
+
+Name: com/sun/jna/AltCallingConvention.class
+SHA1-Digest: Bmudr7KHh7CZjurudWhJtRHqnvI=
+
+Name: com/sun/jna/examples/win32/User32$SIZE.class
+SHA1-Digest: azQe6wjQsWx+LvOAWeUbOZXf9Ng=
+
+Name: com/sun/jna/examples/FileMonitor$Holder.class
+SHA1-Digest: uxTBZK58ZIYo4tTvHz1MMsqCEiE=
+
